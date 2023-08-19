@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordlerepo/static/css/main.4f6751fc.css",
+    "main.js": "/wordlerepo/static/js/main.365d8e8b.js",
+    "index.html": "/wordlerepo/index.html",
+    "main.4f6751fc.css.map": "/wordlerepo/static/css/main.4f6751fc.css.map",
+    "main.365d8e8b.js.map": "/wordlerepo/static/js/main.365d8e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f6751fc.css",
+    "static/js/main.365d8e8b.js"
+  ]
+}
